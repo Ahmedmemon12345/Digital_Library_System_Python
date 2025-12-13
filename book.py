@@ -8,6 +8,7 @@ class Book:
         self.total_copies = total_copies
         self.available_copies = total_copies
 
+
 class Library:
     def __init__(self):
         self.books = {}
